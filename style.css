@@ -1,0 +1,7 @@
+li:nth-last-child(odd) {
+    background-color: beige;
+}
+
+li:nth-last-child(even) {
+    background-color: azure;
+}
